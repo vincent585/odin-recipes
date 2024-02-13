@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+body {
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol,
+ul {
+    list-style-position: inside;
+}
+
+.description {
+    font-style: italic;
+}
+
+.homepage {
+    text-align: center;
+}
